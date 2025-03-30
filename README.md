@@ -10,11 +10,7 @@ The model utilizes traditional machine learning techniques, with a focus on **Gr
 
 - `age_regressor.ipynb` – Jupyter Notebook with the full pipeline: data loading, preprocessing, modeling, evaluation, and visualizations.
 - `report.pdf` – Technical report summarizing the methodology, experiments, and results.
-- Key visualizations:
-  - `heatmap.png`
-  - `learning_rate.png`
-  - `outlier.png`
-  - `XGboost.jpg`
+
 
 ---
 
