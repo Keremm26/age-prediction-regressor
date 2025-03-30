@@ -1,4 +1,4 @@
-# 🧠 Age Prediction Regressor from Speech
+# Age Prediction Regressor from Speech
 
 This repository contains a regression pipeline that estimates a speaker's age based on acoustic and linguistic features extracted from their speech recordings.
 
@@ -6,7 +6,7 @@ The model utilizes traditional machine learning techniques, with a focus on **Gr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `age_regressor.ipynb` – Jupyter Notebook with the full pipeline: data loading, preprocessing, modeling, evaluation, and visualizations.
 - `report.pdf` – Technical report summarizing the methodology, experiments, and results.
@@ -41,25 +41,14 @@ While the current results are promising, several enhancements could be explored:
 
 ---
 
-## Visualizations
 
-| Heatmap (Feature Correlation) | RMSE Grid Search (Learning Rate vs Estimators) |
-|-------------------------------|--------------------------------------------------|
-| ![Heatmap](https://github.com/Keremm26/age-prediction-regressor/blob/main/heatmap.png?raw=true) | ![RMSE Grid](https://github.com/Keremm26/age-prediction-regressor/blob/main/learning_rate.png?raw=true) |
-
-| Pitch Outlier Removal | XGBoost Flow |
-|------------------------|--------------|
-| ![Outlier](https://github.com/Keremm26/age-prediction-regressor/blob/main/outlier.png?raw=true) | ![XGBoost](https://github.com/Keremm26/age-prediction-regressor/blob/main/XGboost.jpg?raw=true) |
-
----
-
-## 📁 Dataset
+## Dataset
 
 Due to file size limitations, the dataset is not included in this repository. You can request access or receive a download link upon request.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python (Jupyter Notebook)
 - Scikit-learn
@@ -68,13 +57,13 @@ Due to file size limitations, the dataset is not included in this repository. Yo
 
 ---
 
-## 📜 License
+## License
 
 MIT License (or choose your preferred one when publishing)
 
 ---
 
-## 💡 Author
+## Author
 
 **Kerem Kose**  
 Feel free to connect or raise issues for suggestions and improvements.
