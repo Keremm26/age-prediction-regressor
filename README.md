@@ -53,12 +53,6 @@ Due to file size limitations, the dataset is not included in this repository. Yo
 
 ---
 
-## License
-
-MIT License (or choose your preferred one when publishing)
-
----
-
 ## Author
 
 **Kerem Kose**  
